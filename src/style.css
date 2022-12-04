@@ -1,12 +1,12 @@
+.form {
+  margin-bottom: 20px;
+}
+
 .form_field {
   display: block;
   margin-bottom: 10px;
 }
 
-.form {
-  margin-bottom: 20px;
-}
-
-label:last-child {
+.form_field:last-child {
   margin-bottom: auto;
 }
